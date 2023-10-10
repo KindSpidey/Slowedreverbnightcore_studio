@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Slowedreverbnightcore_studio/static/css/main.78873d9b.css",
+    "main.js": "/Slowedreverbnightcore_studio/static/js/main.55373112.js",
+    "static/js/787.7dbd8e22.chunk.js": "/Slowedreverbnightcore_studio/static/js/787.7dbd8e22.chunk.js",
+    "index.html": "/Slowedreverbnightcore_studio/index.html",
+    "main.78873d9b.css.map": "/Slowedreverbnightcore_studio/static/css/main.78873d9b.css.map",
+    "main.55373112.js.map": "/Slowedreverbnightcore_studio/static/js/main.55373112.js.map",
+    "787.7dbd8e22.chunk.js.map": "/Slowedreverbnightcore_studio/static/js/787.7dbd8e22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78873d9b.css",
+    "static/js/main.55373112.js"
+  ]
+}
